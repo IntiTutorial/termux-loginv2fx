@@ -1,1 +1,2 @@
-CARA PENGINSTALLAN SILAHKAN CEK TUTORIAL NYA https://youtu.be/5azNkpZumCA 
+1. How to use termux-loginv2fx [`Watch it`](https://youtu.be/5azNkpZumCA) 
+2. Fork it...
